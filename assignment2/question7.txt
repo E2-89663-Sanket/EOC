@@ -1,0 +1,45 @@
+ 2073  clear
+ 2074  ls
+ 2075  mkdir one
+ 2076  cd one
+ 2077  ls
+ 2078  touch 1.txt 11.txt 111.txt
+ 2079  clear
+ 2080  ls
+ 2081  mkdir two
+ 2082  cd two/
+ 2083  clear
+ 2084  touch 2.txt 22.txt 222.txt
+ 2085  clear
+ 2086  ls
+ 2087  mkdir three
+ 2088  cd three/
+ 2089  ls
+ 2090  touch 3.txt 33.txt 333.txt
+ 2091  clear
+ 2092  ls
+ 2093  mkdir four
+ 2094  cd four/
+ 2095  clear
+ 2096  ls
+ 2097  touch 4.txt 44.txt 444.txt
+ 2098  clear
+ 2099  ls
+ 2100  cd two
+ 2101  cd five
+ 2102  clear
+ 2103  mkdir five
+ 2104  touch 5.txt 55.txt 555.txt
+ 2105  clea
+ 2106  clear
+ 2107  ls
+ 2108  mv 555.txt 55.txt 5.txt five/
+ 2109  clear
+ 2110  ls
+ 2111  cd five/
+ 2112  clear
+ 2113  ls
+ 2114  cd
+ 2115  clear
+ 2116  history
+

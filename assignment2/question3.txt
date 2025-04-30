@@ -1,0 +1,21 @@
+1212150 2021LabExam
+1446070 ASSEMBLY_CODE
+ 170559 assiq3.txt
+ 131781 codes
+ 131088 Desktop
+ 169628 DocScanner Oct 2, 2024 22-22.pdf
+ 131092 Documents
+ 131089 Downloads
+ 263386 Mcpi_lab
+ 131093 Music
+ 131094 Pictures
+1450206 Practice_Code
+ 131091 Public
+ 171521 question2.txt
+ 144499 sample1.txt
+ 131258 snap
+ 263358 STM32Cube
+ 137993 Sunbeam_cdac
+ 131090 Templates
+ 155742 video resume scripts.pdf
+ 131095 Videos
